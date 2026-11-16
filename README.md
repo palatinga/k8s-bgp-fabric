@@ -1,6 +1,6 @@
 # k8s bgp fabric
 
-Exposing Kubernetes service on bare metal with BGP, in a fully reproducible datacenter lab with every failure measured
+Exposing Kubernetes services on bare metal with BGP, in a fully reproducible datacenter lab with every failure measured
 
 ## Problem
 
